@@ -1,0 +1,11 @@
+{
+ "name": "PETO",
+ "website": "peto.fun",
+ "description": "The project is a web3-based application using gamified finance and social finance. It has unique gameplay, sociality, learning and environmental protection. ",
+ "explorer": "https://bscscan.com/token/0xe79fb4364d0d6D5D24D5D4B38B180374b9CF0C14",
+ "type": "BEP20",
+ "symbol": "PO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0xe79fb4364d0d6D5D24D5D4B38B180374b9CF0C14"
+}
